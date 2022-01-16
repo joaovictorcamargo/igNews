@@ -16,8 +16,7 @@ FaunaDB
 Node
 Yarn
 🏁 Começando
-# Clone this project
-$ git clone https://github.com/khalleb/ignews
+
 
 # Access
 $ cd ignews
