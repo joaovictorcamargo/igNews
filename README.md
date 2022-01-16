@@ -12,21 +12,6 @@ Next.js
 Prismic CMS
 Stripe
 FaunaDB
-✅ Requerimentos
-Node
-Yarn
-🏁 Começando
 
-
-# Access
-$ cd ignews
-
-# Install dependencies
-$ yarn install
-
-# Run the project
-$ yarn dev
-
-# The server will initialize in the <http://localhost:3000>
 
 
